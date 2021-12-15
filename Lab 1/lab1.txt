@@ -1,0 +1,10 @@
+Adrian Ramirez
+9/25/20
+Lab 1 Report:
+
+Step 1-3 Observation:
+	When I run the program without an argument(delay), I get a seg fault.
+
+Step 4 Observation:
+	When I run with delay 500, towards the end, the child process finishes before the parent process finishes. However, when I run it with 5000 delay, the printouts come out the way they're supposed to.
+	
